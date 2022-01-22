@@ -1,5 +1,4 @@
 ### Hi there 👋
-### I am going to learn using git on terminal f*ckin ASAP!!!
 <!--
 **darkrider95/darkrider95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
